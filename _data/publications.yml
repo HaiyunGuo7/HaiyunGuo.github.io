@@ -1,0 +1,199 @@
+- id: polarhdr
+  title: "Snapshot High-Dynamic-Range Imaging with a Polarization Camera"
+  venue: Under Review, 2023
+  description: "A novel single-shot HDR imaging methodology using a polarization camera, achieving 4dB improvement over software-only baselines."
+  project_page: "https://intelligent-sensing.github.io/polarization-hdr/"
+  arxiv: 2308.08094
+  pdf: https://arxiv.org/pdf/2308.08094.pdf
+  image: polar_before.png
+  # image_mouseover: polar_after.png
+  authors:
+    - mingyang*
+    - mattchan*
+    - chris
+  award:
+    - "ICCP 2023 Poster Demo"
+  award_url: https://iccp2023.iccp-conference.org/call-for-posters-demos/
+
+
+- id: neuws
+  title: "NeuWS: Neural Wavefront Shaping for Guidestar-Free Imaging Through Static and Dynamic Scattering Media"
+  venue: Science Advances 2023
+  venue_url: https://www.science.org/journal/sciadv
+  description: "Neural signal representations enable breakthroughs in correcting for severe time-varying wavefront aberrations caused by scattering media."
+  image: neuws.jpg
+  image_mouseover: neuws.mp4
+  authors:
+    - brandonyfeng*
+    - haiyunguo*
+    - mingyang
+    - vivekb
+    - manojs
+    - ashokv
+    - chris
+  pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
+  github: Intelligent-Sensing/NeuWS
+  award: "Science.org Frontpage Cover"
+  award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
+
+
+- id: turbugan
+  title: "TurbuGAN: An Adversarial Learning Approach to Spatially-Varying Multiframe Blind Deconvolution with Applications to Imaging Through Turbulence"
+  venue: IEEE Journal on Selected Areas in Information Theory, 2022
+  venue_url: https://www.itsoc.org/jsait
+  description: "Training GAN only on blurry images from a single scene to recover a sharp image without estimating the blur kernels or acquiring a large labelled dataset."
+  image: turbugan.jpg
+  image_mouseover: turbugan.mp4
+  arxiv: 2203.06764
+  authors:
+    - brandonyfeng*
+    - mingyang*
+    - chris
+  pdf: https://ieeexplore.ieee.org/abstract/document/10012058
+
+
+- id: coil
+  title: "CoIL: Coordinate-Based Internal Learning for Tomographic Imaging"
+  venue: IEEE Transactions on Computational Imaging, 2021
+  venue_url: https://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging/about-tci
+  description: "Learning the computed tomography measurement field by mapping X-ray angles to corresponding pixel values using implicit neural representation."
+  image: coil_2.png
+  arxiv: 2102.05181
+  # image_mouseover: turbugan.mp4
+  authors:
+    - sunyu
+    - jiaming
+    - mingyang
+    - brendt
+    - ulugbek
+  pdf: https://ieeexplore.ieee.org/document/9606601
+
+
+
+- id: calred
+  title: "Joint Reconstruction and Calibration Using Regularization by Denoising with Application to Computed Tomography"
+  venue: ICCV Workshop, 2021
+  venue_url: https://iccv2021.thecvf.com/home
+  description: "A regularization by denoising approach for image reconstruction tasks where there exist parametric uncertainties in the imaging forward model."
+  # description: "Reconstructing computed tomography (CT) images under mis-aligned projection angles using regularization by denoising."
+  image: calred_before.png
+  arxiv: 2011.13391
+  # image_mouseover: turbugan.mp4
+  authors:
+    - mingyang*
+    - jiaming*
+    - sunyu
+    - brendt
+    - ulugbek
+  pdf: https://openaccess.thecvf.com/content/ICCV2021W/LCI/papers/Xie_Joint_Reconstruction_and_Calibration_Using_Regularization_by_Denoising_With_Application_ICCVW_2021_paper.pdf
+
+- id: proves
+  title: "PROVES: Establishing Image Provenance using Semantic Signatures"
+  venue: WACV, 2022
+  venue_url: https://wacv2022.thecvf.com/home
+  description: "Using semantic signing for image verification against deep fake attacks."
+  image: proves_before.png
+  arxiv: 2110.11411
+  # image_mouseover: turbugan.mp4
+  authors:
+    - mingyang
+    - manav
+    - shaojie
+    - jinghan
+    - ayan
+    - ning
+    - yevgeniy
+  pdf: https://openaccess.thecvf.com/content/WACV2022/papers/Xie_PROVES_Establishing_Image_Provenance_Using_Semantic_Signatures_WACV_2022_paper.pdf
+
+
+# Mingyang Xie1
+# , Manav Kulshrestha2
+# , Shaojie Wang1
+# , Jinghan Yang1
+# Ayan Chakrabarti1
+# , Ning Zhang1
+# , and Yevgeniy Vorobeychik1
+
+# - id: hypernerf
+#   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
+#   venue: SIGGRAPH Asia, 2021
+#   description: "By applying ideas from level set methods, we can represent topologically changing scenes with NeRFs."
+#   project_page: "https://hypernerf.github.io"
+#   github: google/hypernerf
+#   arxiv: 2106.13228
+#   image: hypernerf_before.jpg
+#   image_mouseover: hypernerf_after.mp4
+#   authors:
+#     - keunhong
+#     - utsinh
+#     - hedman
+#     - barron
+#     - sofien
+#     - dgo
+#     - rmbrualla
+#     - smseitz
+
+# - id: fignerf
+#   title: "FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling "
+#   venue: 3DV, 2021
+#   description: "Given a lot of images of an object category, you can train a NeRF to render them from novel views and interpolate between different instances."
+#   project_page: "https://fig-nerf.github.io"
+#   arxiv: 2104.08418
+#   image: fignerf_before.jpg
+#   image_mouseover: fignerf_after.mp4
+#   authors:
+#     - chrisxie
+#     - keunhong
+#     - rmbrualla
+#     - mtbr
+
+# - id: nerfies
+#   title: "Nerfies: Deformable Neural Radiance Fields"
+#   venue: ICCV, 2021
+#   description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
+#   project_page: "https://nerfies.github.io"
+#   github: google/nerfies
+#   arxiv: 2011.12948
+#   image: nerfies_before.jpg
+#   image_mouseover: nerfies_after.mp4
+#   authors:
+#     - keunhong
+#     - utsinh
+#     - barron
+#     - sofien
+#     - dgo
+#     - smseitz
+#     - rmbrualla
+#   awards:
+#     - "Oral Presentation"
+
+# - id: latentfusion
+#   title: "LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation "
+#   venue: CVPR, 2020
+#   description: "By learning to predict geometry from images, you can do zero-shot pose estimation with a single network."
+#   project_page: "https://latentfusion.github.io"
+#   github: NVlabs/latentfusion
+#   arxiv: 1912.00416
+#   image: latentfusion_before.jpg
+#   image_mouseover: latentfusion_after.mp4
+#   authors:
+#     - keunhong
+#     - amousavian
+#     - yux
+#     - fox
+
+# - id: photoshape
+#   title: "PhotoShape: Photorealistic Materials for Large-Scale Shape Collections"
+#   venue: SIGGRAPH Asia, 2018
+#   description: "By pairing large collections of images, 3D models, and materials, you can create thousands of photorealistic 3D models fully automatically."
+#   project_page: "https://photoshape.github.io"
+#   github: keunhong/photoshape
+#   arxiv: 1809.09761
+#   image: photoshape.jpg
+#   authors:
+#     - keunhong
+#     - krematas
+#     - ali
+#     - smseitz
+#   awards:
+#     - "Journal Cover"

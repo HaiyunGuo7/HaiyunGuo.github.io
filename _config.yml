@@ -1,0 +1,76 @@
+# Welcome to Jekyll!   asdfasdfasf
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Mingyang Xie
+name: Mingyang Xie 谢铭阳
+position: Ph.D. Student 
+email: mingyang@umd.edu
+description: >-
+  I am currently a 3rd year Ph.D. student at the University of Maryland, 
+  advised by [Christopher Metzler](http://www.cs.umd.edu/~metzler/){:target="_blank"}. 
+  Previously, I obtained my Bachelor degree from Washington University in St. Louis, 
+  advised by [Ulugbek Kamilov](https://cigroup.wustl.edu/){:target="_blank"} and [Brendt Wohlberg](https://brendt.wohlberg.net/){:target="_blank"}.
+
+
+  I am broadly interested in computer vision, with a focus on computational photography, computational imaging, and low-level to mid-level vision. I am actively looking for research internships for 2024.
+
+# where I work on computational imaging.
+  # [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
+  # [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
+# twitter_username: MingyangXie1
+# github_username: mingyangx   
+google_scholar: 37dscrUAAAAJ
+linkedin_username: mingyangx
+# email: mingyang@umd.edu
+# cv: assets/cv.pdf 这里只是变量而已，会被传到index.html
+
+# add a link to my CV
+
+# google_analytics: G-MFWSBLRKG0
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compact
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
