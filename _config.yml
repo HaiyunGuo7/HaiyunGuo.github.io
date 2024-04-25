@@ -18,28 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mingyang Xie
-name: Mingyang Xie 谢铭阳
-position: Ph.D. Student 
-email: mingyang@umd.edu
+title: Haiyun Guo's Homepage
+name: Haiyun Guo
+position: Ph.D. Candidate
+email: hg39@rice.edu
 description: >-
-  I am currently a 3rd year Ph.D. student at the University of Maryland, 
-  advised by [Christopher Metzler](http://www.cs.umd.edu/~metzler/){:target="_blank"}. 
-  Previously, I obtained my Bachelor degree from Washington University in St. Louis, 
-  advised by [Ulugbek Kamilov](https://cigroup.wustl.edu/){:target="_blank"} and [Brendt Wohlberg](https://brendt.wohlberg.net/){:target="_blank"}.
-
-
-  I am broadly interested in computer vision, with a focus on computational photography, computational imaging, and low-level to mid-level vision. I am actively looking for research internships for 2024.
-
-# where I work on computational imaging.
-  # [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  # [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  I am currently a 3rd year Ph.D. student in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/){:target="_blank"} at Rice University, 
+  supervised by [Prof. Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan){:target="_blank"}
+  of [Rice Computational Imaging Lab](https://computationalimaging.rice.edu/){:target="_blank"}.
+  My current research includes computational imaging, optical system design, deep learning, and physics-based neural network.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mingyangx.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
+url: "https://haiyunguo7.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
 # twitter_username: MingyangXie1
 # github_username: mingyangx   
-google_scholar: 37dscrUAAAAJ
-linkedin_username: mingyangx
+google_scholar: HW0Ocj8AAAAJ&hl
+linkedin_username: haiyunguo0707
+
 # email: mingyang@umd.edu
 # cv: assets/cv.pdf 这里只是变量而已，会被传到index.html
 
