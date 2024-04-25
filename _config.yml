@@ -30,17 +30,12 @@ description: >-
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haiyunguo7.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
-# twitter_username: MingyangXie1
-# github_username: mingyangx   
+
 google_scholar: HW0Ocj8AAAAJ&hl
 linkedin_username: haiyunguo0707
 
-# email: mingyang@umd.edu
-# cv: assets/cv.pdf 这里只是变量而已，会被传到index.html
-
+cv: assets/Resume_HaiyunGuo.pdf  
 # add a link to my CV
-
-# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
