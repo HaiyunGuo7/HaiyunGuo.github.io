@@ -17,46 +17,46 @@ chris:
   is_me: false
 
 
-haiyunguo*:
+haiyun*:
   first_name: Haiyun
   middle_name:
   last_name: Guo*
   website: https://haiyunguo7.github.io/
   is_me: true
 
-haiyunguo:
+haiyun:
   first_name: Haiyun
   middle_name:
   last_name: Guo
   website: https://haiyunguo7.github.io/
   is_me: true
 
-vivekb:
+vivek:
   first_name: Vivek
   middle_name:
   last_name: Boominathan
   website: https://scholar.google.com/citations?hl=en&user=wwf-WgUAAAAJ
 
-manojs:
+manoj:
   first_name: Manoj
   middle_name: K.
   last_name: Sharma
   website: https://scholar.google.com/citations?hl=en&user=dZVUqPQAAAAJ
 
-ashokv:
+ashok:
   first_name: Ashok
   middle_name: 
   last_name: Veeraraghavan
   website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl=en
 
 
-brandonyfeng:
+brandon:
   first_name: Brandon
   middle_name: Y.
   last_name: Feng
   website: https://brandonyfeng.github.io/
   
-brandonyfeng*:
+brandon*:
   first_name: Brandon
   middle_name: Y.
   last_name: Feng*
