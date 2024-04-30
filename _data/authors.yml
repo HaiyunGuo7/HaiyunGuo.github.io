@@ -47,7 +47,7 @@ ashok:
   first_name: Ashok
   middle_name: 
   last_name: Veeraraghavan
-  website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl=en
+  website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl
 
 
 brandon:
@@ -84,7 +84,7 @@ changhuei:
   first_name: Changhuei
   middle_name: 
   last_name: Changhuei Yang
-  website: https://scholar.google.com/citations?user=uLUJZDMAAAAJ&hl=en
+  website: https://scholar.google.com/citations?user=uLUJZDMAAAAJ&hl
 
 siyu:
   first_name: Siyu
@@ -95,3 +95,9 @@ mingshu:
   first_name: Mingshu
   middle_name:
   last_name: Liang
+
+partha:
+  first_name: Partha
+  middle_name: P.
+  last_name: Banerjee
+  website: https://scholar.google.com/citations?user=lTXx33QAAAAJ&hl
