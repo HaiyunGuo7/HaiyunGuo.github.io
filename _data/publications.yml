@@ -21,7 +21,7 @@
   venue_url: https://www.science.org/doi/10.1126/sciadv.adg4671
   description: "Neural signal representations enable breakthroughs in correcting for severe time-varying wavefront aberrations caused by scattering media."
   image: neuws.jpg
-  image_mouseover: neuws.mp4
+  image_mouseover: dy_neuws.mp4
   authors:
     - brandon*
     - haiyun*
