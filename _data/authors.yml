@@ -102,58 +102,58 @@ partha:
   last_name: Banerjee
   website: https://scholar.google.com/citations?user=lTXx33QAAAAJ&hl
 
-mallik:
-  first_name: Mallik
-  middle_name: M. R.
-  last_name: Hussain
-  website: https://www.linkedin.com/in/mallik-mohd-raihan-hussain-48b02467/
+# mallik:
+#   first_name: Mallik
+#   middle_name: M. R.
+#   last_name: Hussain
+#   website: https://www.linkedin.com/in/mallik-mohd-raihan-hussain-48b02467/
 
-gary:
-  first_name: Gary
-  middle_name: A.
-  last_name: Sevison
-  website: https://www.linkedin.com/in/garysevison/
+# gary:
+#   first_name: Gary
+#   middle_name: A.
+#   last_name: Sevison
+#   website: https://www.linkedin.com/in/garysevison/
 
-joshua:
-  first_name: Joshua
-  middle_name: A.
-  last_name: Burrow
-  website: https://www.linkedin.com/in/joshua-burrow-11b136aa/
+# joshua:
+#   first_name: Joshua
+#   middle_name: A.
+#   last_name: Burrow
+#   website: https://www.linkedin.com/in/joshua-burrow-11b136aa/
 
- andrew:
-  first_name: Andrew
-  middle_name:
-  last_name: Sarangan
-  website: https://scholar.google.com/citations?user=Pk5uKwYAAAAJ&hl=en
+#  andrew:
+#   first_name: Andrew
+#   middle_name:
+#   last_name: Sarangan
+#   website: https://scholar.google.com/citations?user=Pk5uKwYAAAAJ&hl=en
 
-joshuar:
-  first_name: Joshua
-  middle_name: R.
-  last_name: Hendrickson
-  #website: https://www.linkedin.com/in/joshua-burrow-11b136aa/
+# joshuar:
+#   first_name: Joshua
+#   middle_name: R.
+#   last_name: Hendrickson
+#   #website: https://www.linkedin.com/in/joshua-burrow-11b136aa/
 
-imad:
-  first_name: Imad
-  middle_name:
-  last_name: Agha
-  website: https://www.linkedin.com/in/imad-agha-a8aa3b6/
+# imad:
+#   first_name: Imad
+#   middle_name:
+#   last_name: Agha
+#   website: https://www.linkedin.com/in/imad-agha-a8aa3b6/
 
-shiqi:
-  first_name: Shiqi
-  middle_name:
-  last_name: Luo
+# shiqi:
+#   first_name: Shiqi
+#   middle_name:
+#   last_name: Luo
 
-kaitrin:
-  first_name: Kaitrin
-  middle_name:
-  last_name: Weber
+# kaitrin:
+#   first_name: Kaitrin
+#   middle_name:
+#   last_name: Weber
 
-wenqi:
-  first_name: Wenqi
-  middle_name:
-  last_name: Zhu
+# wenqi:
+#   first_name: Wenqi
+#   middle_name:
+#   last_name: Zhu
 
-amit:
-  first_name: Amit
-  middle_name:
-  last_name: Agrawal
+# amit:
+#   first_name: Amit
+#   middle_name:
+#   last_name: Agrawal
