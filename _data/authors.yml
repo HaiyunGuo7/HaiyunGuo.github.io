@@ -19,21 +19,18 @@ chris:
 
 haiyun*:
   first_name: Haiyun
-  middle_name:
   last_name: Guo*
   website: https://scholar.google.com/citations?user=HW0Ocj8AAAAJ&hl
   is_me: true
 
 haiyun:
   first_name: Haiyun
-  middle_name:
   last_name: Guo
   website: https://scholar.google.com/citations?user=HW0Ocj8AAAAJ&hl
   is_me: true
 
 vivek:
   first_name: Vivek
-  middle_name:
   last_name: Boominathan
   website: https://scholar.google.com/citations?hl=en&user=wwf-WgUAAAAJ
 
@@ -45,7 +42,6 @@ manoj:
 
 ashok:
   first_name: Ashok
-  middle_name: 
   last_name: Veeraraghavan
   website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl
 
@@ -64,36 +60,30 @@ brandon*:
 
 haowen:
   first_name: Haowen
-  middle_name:
   last_name: Zhou
   website: https://hwzhou2020.github.io/
 
 haowen*:
   first_name: Haowen
-  middle_name:
   last_name: Zhou*
   website: https://hwzhou2020.github.io/
 
 lingbo:
   first_name: Lingbo
-  middle_name: 
   last_name: Jin
   website: https://lj19.blogs.rice.edu/
 
 changhuei:
   first_name: Changhuei
-  middle_name: 
   last_name: Yang
   website: https://scholar.google.com/citations?user=uLUJZDMAAAAJ&hl
 
 siyu:
   first_name: Siyu
-  middle_name:
   last_name: Lin
 
 mingshu:
   first_name: Mingshu
-  middle_name:
   last_name: Liang
 
 partha:
@@ -122,7 +112,6 @@ joshua:
 
  andrew:
   first_name: Andrew
-  middle_name:
   last_name: Sarangan
   website: https://scholar.google.com/citations?user=Pk5uKwYAAAAJ&hl=en
 
@@ -134,26 +123,21 @@ joshuar:
 
 imad:
   first_name: Imad
-  middle_name:
   last_name: Agha
   website: https://www.linkedin.com/in/imad-agha-a8aa3b6/
 
 shiqi:
   first_name: Shiqi
-  middle_name:
   last_name: Luo
 
 kaitrin:
   first_name: Kaitrin
-  middle_name:
   last_name: Weber
 
 wenqi:
   first_name: Wenqi
-  middle_name:
   last_name: Zhu
 
 amit:
   first_name: Amit
-  middle_name:
   last_name: Agrawal
