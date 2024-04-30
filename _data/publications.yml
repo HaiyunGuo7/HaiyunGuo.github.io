@@ -3,8 +3,8 @@
   venue: CVPR 2024
   venue_url: https://cvpr.thecvf.com/
   description: "Wavefront modulations and a lightweight feedforward “proxy” reconstruction network are jointly optimized to recover scenes obscured by scattering."
-  image: turbugan.jpg
-  image_mouseover: turbugan.mp4
+  image: wavemo_before.png
+  image_mouseover: wavemo_after.png
   arxiv: 2404.07985
   authors:
     - mingyang*
