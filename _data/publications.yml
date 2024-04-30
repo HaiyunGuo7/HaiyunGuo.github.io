@@ -35,4 +35,22 @@
   award: "Science.org Frontpage Cover"
   award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
 
-
+- id: fpm
+  title: "Fourier ptychographic microscopy image stack reconstruction using implicit neural representations"
+  venue: Optica 2023
+  venue_url: https://www.science.org/doi/10.1126/sciadv.adg4671
+  description: "Physics-based neural representations revolutionize FPM by significantly reducing image stack reconstruction times and data volumes, enhancing remote diagnostics and data efficiency."
+  image: neuws.jpg
+  image_mouseover: neuws2.mp4
+  authors:
+    - brandon*
+    - haiyun*
+    - mingyang
+    - vivek
+    - manoj
+    - ashok
+    - chris
+  pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
+  github: Intelligent-Sensing/NeuWS
+  award: "Science.org Frontpage Cover"
+  award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
