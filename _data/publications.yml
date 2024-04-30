@@ -54,7 +54,18 @@
     - changhuei
   pdf: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-12-1679&id=544513
 
-
+- id: transparent
+  title: "Use of structured light in 3D reconstruction of transparent objects"
+  venue: Applied Optics 2022
+  venue_url: https://www.optica.org/
+  description: "A light ray propagation model profiles 3D transparent objects by analyzing the local periodicity of distorted images."
+  image: transparent.png
+  authors:
+    - haiyun
+    - haowen
+    - partha
+  pdf: https://opg.optica.org/ao/abstract.cfm?uri=ao-61-5-B314
+  
 - id: moire
   title: "Single-shot digital phase-shifting Moiré patterns for 3D topography"
   venue: Applied Optics 2021
@@ -67,15 +78,16 @@
     - partha
   pdf: https://opg.optica.org/ao/fulltext.cfm?uri=ao-60-4-A84&id=441744
 
-
-- id: transparent
-  title: "Use of structured light in 3D reconstruction of transparent objects"
+- id: tie
+  title: "Non-recursive transport of intensity phase retrieval with the transport of phase"
   venue: Applied Optics 2022
   venue_url: https://www.optica.org/
-  description: "A light ray propagation model profiles 3D transparent objects by analyzing the local periodicity of distorted images."
-  image: transparent.png
+  description: "The integration of TIE and TPE through a non-recursive FFT-based approach enhances phase retrieval accuracy in optical field analysis."
+  image: tie.png
   authors:
-    - haiyun
     - haowen
+    - haiyun
     - partha
-  pdf: https://opg.optica.org/ao/abstract.cfm?uri=ao-61-5-B314
+  pdf: https://opg.optica.org/ao/fulltext.cfm?uri=ao-61-5-B190&id=465996
+
+
