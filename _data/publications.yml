@@ -53,3 +53,16 @@
     - chris
     - changhuei
   pdf: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-12-1679&id=544513
+
+
+  - id: moire
+    title: "Single-shot digital phase-shifting Moiré patterns for 3D topography"
+    venue: Applied Optics 2021
+    venue_url: https://www.optica.org/
+    description: "Moiré topography, enhanced by digital filtering and phase-shifting, achieves micron-level 3D surface mapping through robust single-image capture."
+    image: moire.png
+    authors:
+      - haiyun
+      - haowen
+      - partha
+    pdf: https://opg.optica.org/ao/fulltext.cfm?uri=ao-60-4-A84&id=441744
