@@ -72,8 +72,8 @@
   title: "Use of structured light in 3D reconstruction of transparent objects"
   venue: Applied Optics 2022
   venue_url: https://www.optica.org/
-  description: "Moiré topography, enhanced by digital filtering and phase-shifting, achieves micron-level 3D surface mapping through robust single-image capture."
-  image: moire.png
+  description: "A light ray propagation model profiles 3D transparent objects by analyzing the local periodicity of distorted images."
+  image: transparent.png
   authors:
     - haiyun
     - haowen
