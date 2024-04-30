@@ -9,9 +9,9 @@
   authors:
     - mingyang*
     - haiyun*
-    -brandonfeng
-    -lingbo
-    -ashokv
+    - brandon
+    - lingbo
+    - ashok
     - chris
   pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2404.07985
 
@@ -23,12 +23,12 @@
   image: neuws.jpg
   image_mouseover: neuws.mp4
   authors:
-    - brandonfeng*
-    - haiyunguo*
+    - brandon*
+    - haiyun*
     - mingyang
-    - vivekb
-    - manojs
-    - ashokv
+    - vivek
+    - manoj
+    - ashok
     - chris
   pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
   github: Intelligent-Sensing/NeuWS
