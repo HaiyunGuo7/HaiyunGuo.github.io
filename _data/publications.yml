@@ -90,17 +90,17 @@
     - partha
   pdf: https://opg.optica.org/ao/fulltext.cfm?uri=ao-61-5-B190&id=465996
 
-# - id: spie
-#   title: "Ptychographic coherent diffractive imaging, digital holography and structured light techniques for topographical 3D imaging"
-#   venue: SPIE 2021
-#   venue_url: https://spie.org/#_=_
-#   description: "In additive manufacturing, digital holography, ptychographic imaging, and structured light uniquely address topographical measurement of reflective metals, supported by simulations and experiments."
-#   image: tie.png
-#   authors:
-#     - mallik
-#     - haiyun
-#     - partha
-#   pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11735/117350H/Ptychographic-coherent-diffractive-imaging-digital-holography-and-structured-light-techniques/10.1117/12.2591274.short
+- id: spie
+  title: "Ptychographic coherent diffractive imaging, digital holography and structured light techniques for topographical 3D imaging"
+  venue: SPIE 2021
+  venue_url: https://spie.org/#_=_
+  description: "In additive manufacturing, digital holography, ptychographic imaging, and structured light uniquely address topographical measurement of reflective metals, supported by simulations and experiments."
+  image: spie.png
+  authors:
+    - mallik
+    - haiyun
+    - partha
+  pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11735/117350H/Ptychographic-coherent-diffractive-imaging-digital-holography-and-structured-light-techniques/10.1117/12.2591274.short
 
 # - id: heat
 #   title: "Wavelength and power dependence on multilevel behavior of phase change materials"
