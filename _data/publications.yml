@@ -3,10 +3,10 @@
   venue: CVPR 2024
   venue_url: https://cvpr.thecvf.com/
   description: "Wavefront modulations and a lightweight feedforward “proxy” reconstruction network are jointly optimized to recover scenes obscured by scattering."
-  project_page: "https://wavemo-2024.github.io/"
   image: wavemo_before.gif
   image_mouseover: wavemo_after.mp4
   arxiv: 2404.07985
+  project_page: "https://wavemo-2024.github.io/"
   authors:
     - mingyang*
     - haiyun*
