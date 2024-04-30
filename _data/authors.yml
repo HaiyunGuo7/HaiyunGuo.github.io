@@ -2,13 +2,13 @@ mingyang:
   first_name: Mingyang
   last_name: Xie
   website: https://mingyangx.github.io
-  is_me: true
+  is_me: false
 
 mingyang*:
   first_name: Mingyang
   last_name: Xie*
   website: https://mingyangx.github.io
-  is_me: true
+  is_me: false
 
 chris:
   first_name: Christopher
@@ -22,12 +22,14 @@ haiyunguo*:
   middle_name:
   last_name: Guo*
   website: https://haiyunguo7.github.io/
+  is_me: true
 
 haiyunguo:
   first_name: Haiyun
   middle_name:
   last_name: Guo
   website: https://haiyunguo7.github.io/
+  is_me: true
 
 vivekb:
   first_name: Vivek
