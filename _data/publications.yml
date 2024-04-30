@@ -3,6 +3,7 @@
   venue: CVPR 2024
   venue_url: https://cvpr.thecvf.com/
   description: "Wavefront modulations and a lightweight feedforward “proxy” reconstruction network are jointly optimized to recover scenes obscured by scattering."
+  project_page: "https://wavemo-2024.github.io/"
   image: wavemo_before.gif
   image_mouseover: wavemo_after.mp4
   arxiv: 2404.07985
@@ -13,7 +14,7 @@
     - lingbo
     - ashok
     - chris
-  pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2404.07985
+  #pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2404.07985
 
 - id: neuws
   title: "NeuWS: Neural Wavefront Shaping for Guidestar-Free Imaging Through Static and Dynamic Scattering Media"
@@ -40,18 +41,15 @@
   venue: Optica 2023
   venue_url: https://www.optica.org/
   description: "Physics-based neural representations revolutionize FPM by significantly reducing image stack reconstruction times and data volumes, enhancing remote diagnostics and data efficiency."
+  project_page: "https://hwzhou2020.github.io/FPM-INR-Web/"
   image: fpm_before.png
   image_mouseover: fpm_after.mp4
   authors:
     - haowen*
     - brandon*
     - haiyun
-    - mingyang
-    - vivek
-    - manoj
-    - ashok
+    - siyu
+    - mingshu
     - chris
-  pdf: https://www.science.org/doi/10.1126/sciadv.adg4671
-  github: Intelligent-Sensing/NeuWS
-  award: "Science.org Frontpage Cover"
-  award_url: https://web.archive.org/web/20230628185405/https://www.science.org/
+    - changhuei
+  pdf: https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-12-1679&id=544513
