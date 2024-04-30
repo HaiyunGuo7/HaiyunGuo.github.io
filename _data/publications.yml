@@ -43,7 +43,7 @@
   description: "Physics-based neural representations revolutionize FPM by significantly reducing image stack reconstruction times and data volumes, enhancing remote diagnostics and data efficiency."
   project_page: "https://hwzhou2020.github.io/FPM-INR-Web/"
   image: fpm_before.png
-  image_mouseover: fpm_after.mp4
+  image_mouseover: fpm_after2.mp4
   authors:
     - haowen*
     - brandon*
