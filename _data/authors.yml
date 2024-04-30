@@ -16,7 +16,6 @@ chris:
   website: https://www.cs.umd.edu/~metzler/
   is_me: false
 
-
 haiyun*:
   first_name: Haiyun
   last_name: Guo*
@@ -44,7 +43,6 @@ ashok:
   first_name: Ashok
   last_name: Veeraraghavan
   website: https://scholar.google.com/citations?user=tI-oUmsAAAAJ&hl
-
 
 brandon:
   first_name: Brandon
@@ -110,7 +108,7 @@ joshua:
   last_name: Burrow
   website: https://www.linkedin.com/in/joshua-burrow-11b136aa/
 
- andrew:
+andrew:
   first_name: Andrew
   last_name: Sarangan
   website: https://scholar.google.com/citations?user=Pk5uKwYAAAAJ&hl=en
