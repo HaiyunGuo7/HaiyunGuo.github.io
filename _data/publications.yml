@@ -102,32 +102,32 @@
     - partha
   pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11735/117350H/Ptychographic-coherent-diffractive-imaging-digital-holography-and-structured-light-techniques/10.1117/12.2591274.short
 
-# - id: heat
-#   title: "Wavelength and power dependence on multilevel behavior of phase change materials"
-#   venue: AIP Advances 2021
-#   venue_url: https://pubs.aip.org/aip/adv?gad_source=1&gclid=CjwKCAjwrcKxBhBMEiwAIVF8rIenVE4seAhmRG2OpMFrT8qED6ckbS606UXG7EPwHfdYNbks_eQFWRoC0lEQAvD_BwE
-#   description: "Multilevel responses of GeTe, GST, and W-GST to 1550 nm and 780 nm wavelengths show distinct application potentials based on film thickness and substrate interactions."
-#   image: heat.png
-#   authors:
-#     - gary
-#     - joshua
-#     - haiyun
-#     - andrew
-#     - joshuar
-#     - imad
-#   pdf: https://pubs.aip.org/aip/adv/article/11/8/085327/970824
+- id: heat
+  title: "Wavelength and power dependence on multilevel behavior of phase change materials"
+  venue: AIP Advances 2021
+  venue_url: https://pubs.aip.org/aip/adv?gad_source=1&gclid=CjwKCAjwrcKxBhBMEiwAIVF8rIenVE4seAhmRG2OpMFrT8qED6ckbS606UXG7EPwHfdYNbks_eQFWRoC0lEQAvD_BwE
+  description: "Multilevel responses of GeTe, GST, and W-GST to 1550 nm and 780 nm wavelengths show distinct application potentials based on film thickness and substrate interactions."
+  image: heat.png
+  authors:
+    - gary
+    - joshua
+    - haiyun
+    - andrew
+    - joshuar
+    - imad
+  pdf: https://pubs.aip.org/aip/adv/article/11/8/085327/970824
 
-# - id: metslens
-#   title: "A Maskless Lithography System Based on Digital Micromirror Devices (DMD) and Metalens Arrays"
-#   venue: CLEO 2023
-#   venue_url: https://www.cleoconference.org/home/
-#   description: "A metalens array in a maskless lithography system achieves high-resolution patterning by focusing light from designated micromirrors onto the photoresist."
-#   image: metalens.png
-#   authors:
-#     - shiqi
-#     - kaitrin
-#     - haiyun
-#     - wenqi
-#     - amit
-#     - imad
-#   pdf: https://opg.optica.org/abstract.cfm?URI=CLEO_AT-2023-ATu4R.6
+- id: metslens
+  title: "A Maskless Lithography System Based on Digital Micromirror Devices (DMD) and Metalens Arrays"
+  venue: CLEO 2023
+  venue_url: https://www.cleoconference.org/home/
+  description: "A metalens array in a maskless lithography system achieves high-resolution patterning by focusing light from designated micromirrors onto the photoresist."
+  image: metalens.png
+  authors:
+    - shiqi
+    - kaitrin
+    - haiyun
+    - wenqi
+    - amit
+    - imad
+  pdf: https://opg.optica.org/abstract.cfm?URI=CLEO_AT-2023-ATu4R.6
