@@ -23,10 +23,12 @@ name: Haiyun Guo
 position: Ph.D. Candidate
 email: hg39@rice.edu
 description: >-
-  I am currently a 3rd year Ph.D. student in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/){:target="_blank"} at Rice University, 
+  I am currently a 3rd year Ph.D. student in the Department of Electrical and Computer Engineering at Rice University, 
   supervised by [Prof. Ashok Veeraraghavan](https://profiles.rice.edu/faculty/ashok-veeraraghavan){:target="_blank"}
   of [Rice Computational Imaging Lab](https://computationalimaging.rice.edu/){:target="_blank"}.
-  My current research includes computational imaging, optical system design, deep learning, and physics-based neural network.
+  I wrk on computational photography and optical imaging, focusing on end-to-end learning, physics-based neural networks and optimization algorithms.
+
+  I am actively looking for research internships for 2025.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haiyunguo7.github.com" # the base hostname & protocol for your site, e.g. http://example.com  asdf
