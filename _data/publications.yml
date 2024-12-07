@@ -8,8 +8,8 @@
   arxiv: 2404.07985
   project_page: "https://wavemo-2024.github.io/"
   authors:
-    - mingyang*
     - haiyun*
+    - mingyang*
     - brandon
     - lingbo
     - ashok
@@ -24,8 +24,8 @@
   image: neuws.jpg
   image_mouseover: neuws2.mp4
   authors:
-    - brandon*
     - haiyun*
+    - brandon*
     - mingyang
     - vivek
     - manoj
